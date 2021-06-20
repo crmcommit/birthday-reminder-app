@@ -189,7 +189,7 @@ main {
 
 .wishbutton {
   color: var(--clr-white);
-  display: block;
+  display: flex;
   width: 40%;
   border-color: transparent;
   background: var(--clr-pink);
