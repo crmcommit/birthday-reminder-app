@@ -18,8 +18,11 @@ After learning the useState react hook
 
 # reference used
 
-https://css-tricks.com/all-about-mailto-links/
-https://mailtolink.me/ - to generate email body content and subject
+https://css-tricks.com/all-about-mailto-links
+
+to generate email body content and subject
+https://mailtolink.me
+
 https://stackoverflow.com/questions/58674409/how-to-concatenate-variable-to-href-tag-in-react-js
 
 # Additional Improvement to the projects needed
